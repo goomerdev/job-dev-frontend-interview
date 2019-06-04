@@ -121,8 +121,6 @@ Sim.
 
 Quanto mais tempo você demorar, mais críticos seremos na sua avaliação =]
 
-Esperamos que você finalize em 2 ou 3 dias. Cuidado para não acabar reinventando a roda.
-
 #### React, Angular ou Vue?
 Você precisa implementar em React.
 
